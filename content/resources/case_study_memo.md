@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 8fe830f1-085c-9120-2b3a-dafe505a216b
 resourcetype: Document
 title: "Case Study Memo Assignment: World Bank\u2019s appraisal of the Three Cities\
   \ Sanitation Project"

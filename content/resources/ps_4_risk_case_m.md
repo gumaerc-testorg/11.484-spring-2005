@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 8fe830f1-085c-9120-2b3a-dafe505a216b
 resourcetype: Document
 title: 'Problem Set 4: Mexican Toll Road Project Case Memo'
 uid: 1a188548-edb2-0cbe-0af9-e014d65ef688

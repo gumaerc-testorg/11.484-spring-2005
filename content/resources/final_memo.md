@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 8fe830f1-085c-9120-2b3a-dafe505a216b
 resourcetype: Document
 title: Final Essay
 uid: afebe2f1-36e7-a06b-b26b-73a4a2d2b110
