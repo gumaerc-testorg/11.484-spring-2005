@@ -5,6 +5,7 @@ file: /courses/11-484-project-appraisal-in-developing-countries-spring-2005/1a18
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Problem Set 4: Mexican Toll Road Project Case Memo'
 uid: 1a188548-edb2-0cbe-0af9-e014d65ef688
 ---
 Instructions for writing a case study memo on the Mexican toll road project.
-

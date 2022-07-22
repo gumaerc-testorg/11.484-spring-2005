@@ -5,6 +5,7 @@ file: /courses/11-484-project-appraisal-in-developing-countries-spring-2005/3042
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "Case Study Memo Assignment: World Bank\u2019s appraisal of the Three Cit
 uid: 30426be1-4d05-d1be-ab28-926985bc0ce5
 ---
 Case study assignment on the Three Cities Sanitation Project in Vietnam.
-
