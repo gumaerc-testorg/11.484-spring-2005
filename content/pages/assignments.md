@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides descriptions of the problem sets and written assignments
+  for the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 8fe830f1-085c-9120-2b3a-dafe505a216b
 ---
@@ -36,7 +41,7 @@ DUE DATES
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 1 ([PDF]({{< baseurl >}}/resources/ps01))
+Problem Set 1 ({{% resource_link 3f22cdf7-50c2-973a-8ae9-74cbdf05afa0 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Financial Cash Flows from Alternative Perspectives
@@ -48,7 +53,7 @@ Session 6
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 2 ([PDF]({{< baseurl >}}/resources/ps02))
+Problem Set 2 ({{% resource_link 91cc8a92-6188-4aed-8c56-cdfcd02b18d5 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Discounting and Alternative Investment Criteria
@@ -60,7 +65,7 @@ Session 8
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 3 ([PDF]({{< baseurl >}}/resources/ps03))
+Problem Set 3 ({{% resource_link 38bd3eb0-7754-81b7-dc24-6a907dc588f2 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Scale and Timing
@@ -72,7 +77,7 @@ Session 10
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 4 ([PDF]({{< baseurl >}}/resources/ps_4_risk_case_m))
+Problem Set 4 ({{% resource_link 1a188548-edb2-0cbe-0af9-e014d65ef688 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Risk and Sensitivity Analysis
@@ -84,7 +89,7 @@ Session 13
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 5 ([PDF]({{< baseurl >}}/resources/ps05))
+Problem Set 5 ({{% resource_link c0032fa7-5077-5a63-967b-f0d8fd2f034d "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Economic Appraisal and Shadow Prices
@@ -96,7 +101,7 @@ Session 18
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Case Study Memo ([PDF]({{< baseurl >}}/resources/case_study_memo))
+Case Study Memo ({{% resource_link 30426be1-4d05-d1be-ab28-926985bc0ce5 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Critical Appraisal of an Appraisal Document
@@ -108,7 +113,7 @@ Session 23
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Final Essay ([PDF]({{< baseurl >}}/resources/final_memo))
+Final Essay ({{% resource_link afebe2f1-36e7-a06b-b26b-73a4a2d2b110 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Appraisal in the field
