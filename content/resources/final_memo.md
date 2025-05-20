@@ -2,7 +2,7 @@
 content_type: resource
 description: Essay assignment on the usefulness and the limitations of various cost
   benefit analysis techniques in development projects.
-file: /ol-ocw-studio-app/courses/11-484-project-appraisal-in-developing-countries-spring-2005/afebe2f136e7a06bb26b73a4a2d2b110_final_memo.pdf
+file: /courses/11-484-project-appraisal-in-developing-countries-spring-2005/afebe2f136e7a06bb26b73a4a2d2b110_final_memo.pdf
 file_size: 10322
 file_type: application/pdf
 learning_resource_types:
