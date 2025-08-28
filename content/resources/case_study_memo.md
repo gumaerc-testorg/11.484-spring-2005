@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Case study assignment on the Three Cities Sanitation Project in Vietnam.
-file: /courses/11-484-project-appraisal-in-developing-countries-spring-2005/30426be14d05d1beab28926985bc0ce5_case_study_memo.pdf
+file: /ol-ocw-studio-app/courses/11-484-project-appraisal-in-developing-countries-spring-2005/30426be14d05d1beab28926985bc0ce5_case_study_memo.pdf
 file_size: 16835
 file_type: application/pdf
 learning_resource_types:
